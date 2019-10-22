@@ -1,0 +1,2 @@
+# ramsey-lifestyle
+GitHub Pages
